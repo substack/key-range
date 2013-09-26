@@ -3,6 +3,10 @@
 return whether a string key is within a
 [levelup](https://npmjs.org/package/levelup)-style range
 
+[![build status](https://secure.travis-ci.org/substack/key-range.png)](http://travis-ci.org/substack/key-range)
+
+[![testling badge](https://ci.testling.com/substack/key-range.png)](https://ci.testling.com/substack/key-range)
+
 # example
 
 ``` js
