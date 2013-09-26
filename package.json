@@ -1,6 +1,6 @@
 {
   "name": "key-range",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "return whether a string key is within a levelup-style range",
   "main": "index.js",
   "dependencies": {},
