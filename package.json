@@ -1,0 +1,30 @@
+{
+  "name": "key-range",
+  "version": "0.0.0",
+  "description": "return whether a string key is within a levelup-style range",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/key-range.git"
+  },
+  "homepage": "https://github.com/substack/key-range",
+  "keywords": [
+    "lexicographic",
+    "leveldb",
+    "arithmetic",
+    "key"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}

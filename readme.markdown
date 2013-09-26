@@ -1,7 +1,7 @@
 # key-range
 
 return whether a string key is within a
-[leveldown](https://npmjs.org/package/leveldown) style range
+[levelup](https://npmjs.org/package/levelup)-style range
 
 # example
 
@@ -45,7 +45,7 @@ by `opts`.
 * `opts.max`
 
 These correspond to the range options supported by
-[leveldown](https://npmjs.org/package/leveldown), although `{lt,gt}{,e}` is
+[levelup](https://npmjs.org/package/levelup), although `{lt,gt}{,e}` is
 the preferred form.
 
 # install
